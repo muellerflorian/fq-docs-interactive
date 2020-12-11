@@ -1,2 +1,1 @@
-* [Home](/)
-* [Tutorial](/tutorial)
+ * [Home](/)
